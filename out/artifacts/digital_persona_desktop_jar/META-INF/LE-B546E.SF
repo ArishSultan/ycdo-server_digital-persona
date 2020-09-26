@@ -1,0 +1,203 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: ydKP4S7NWFE6ympqbutgcM3/eEk=
+Created-By: 1.6.0_32 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: 2/PRBKLZBiz9CrMQs93leKLfhao=
+
+Name: com/digitalpersona/uareu/Engine$EngineType.class
+SHA1-Digest: W1/kvn0K4dsFiaJ88TaJPC8JQG0=
+
+Name: com/digitalpersona/uareu/jni/Dpfpdd$LongReference.class
+SHA1-Digest: fjHMOIru6fNpY0zqllTAAvmiaUo=
+
+Name: com/digitalpersona/uareu/Reader$Description.class
+SHA1-Digest: thUDmHTc/M9i9rt+BwOVoXTqDpU=
+
+Name: com/digitalpersona/uareu/Fmd$Fmv.class
+SHA1-Digest: 0/j7TfSOOe2XUmkpiqnLEZxE2X4=
+
+Name: com/digitalpersona/uareu/Engine$Candidate.class
+SHA1-Digest: n8UksriYUnd4EF5Skfl6nL6L8ck=
+
+Name: com/digitalpersona/uareu/Reader$VersionInfo.class
+SHA1-Digest: mE4JC9h0BQ9rWbXUYvCfIXAeg6c=
+
+Name: com/digitalpersona/uareu/Reader$ReaderStatus.class
+SHA1-Digest: 6J8qte3KmG+EEizlpvltxKYf1h4=
+
+Name: com/digitalpersona/uareu/Reader$Id.class
+SHA1-Digest: A1uDFcyjVA/c1V8b7kXKM4Cvsis=
+
+Name: com/digitalpersona/uareu/dpfpdd/FidImpl$FivImpl.class
+SHA1-Digest: HyW6gGKa6kmIEZjEu5Ccr31LAew=
+
+Name: com/digitalpersona/uareu/Reader$Capabilities.class
+SHA1-Digest: XmjJhWP8eV2VqU8to0Onp2fRmH0=
+
+Name: com/digitalpersona/uareu/Fmd$Format.class
+SHA1-Digest: AUsP4gPYNUiM2AvH0feVVkl1V30=
+
+Name: com/digitalpersona/uareu/dpfj/QualityImpl.class
+SHA1-Digest: vDBBo0BWltWnSN1T/bia9STNTkE=
+
+Name: com/digitalpersona/uareu/Quality.class
+SHA1-Digest: QxTbSMEyBA2mnUJmD5hxEeyGy3w=
+
+Name: com/digitalpersona/uareu/dpfpdd/ReaderCollectionImpl$ReaderImpl$
+ CaptureThread.class
+SHA1-Digest: u0B+1zBbybQIM7xh4/MUVczAUAI=
+
+Name: com/digitalpersona/uareu/dpfj/FmdImpl$FmvImpl.class
+SHA1-Digest: ONP4+6nYmDSqMKLZwgIGfzjZU8U=
+
+Name: com/digitalpersona/uareu/Engine.class
+SHA1-Digest: DEQs41m+XR71Viy/8UHreObtPy4=
+
+Name: com/digitalpersona/uareu/dpfpdd/FidImpl.class
+SHA1-Digest: dVsWa2MP1qQfPtYUOw8XfsP2o94=
+
+Name: com/digitalpersona/uareu/jni/Dpfj$IntReference.class
+SHA1-Digest: 3DRuYr97n6Ojd+hn8YOYlO7Nb3Y=
+
+Name: com/digitalpersona/uareu/Reader$Version.class
+SHA1-Digest: SMmETW+MPIk8dXVkhr6IzoUdSbw=
+
+Name: com/digitalpersona/uareu/Reader$Priority.class
+SHA1-Digest: jsAnR83DlLgs7ozcYfe8f7I38gQ=
+
+Name: com/digitalpersona/uareu/dpfj/ImporterImpl.class
+SHA1-Digest: v0IA1HI8NlJXDp98xdYZ1fw3bOg=
+
+Name: com/digitalpersona/uareu/dpfpdd/ReaderCollectionImpl$ReaderImpl.
+ class
+SHA1-Digest: REGffaQEoIlRskAR1dxN1iJgzkg=
+
+Name: com/digitalpersona/uareu/ReaderCollection.class
+SHA1-Digest: lXsg5+thMhsVf9vkmoHQwHe6dGA=
+
+Name: com/digitalpersona/uareu/Reader.class
+SHA1-Digest: j8c5CA5h1dhdBRGeiYixsWMz8dc=
+
+Name: com/digitalpersona/uareu/Importer.class
+SHA1-Digest: 7oTXZzinLi6/GYlSTJzSTLBGyOw=
+
+Name: com/digitalpersona/uareu/Compression$RawImage.class
+SHA1-Digest: R9BlCfZENV0KaKoGQxRrRiHDe1U=
+
+Name: com/digitalpersona/uareu/jni/Dpfpdd$IntReference.class
+SHA1-Digest: dCYmsn4FH54xf0uiE1TYHGmX/8Y=
+
+Name: com/digitalpersona/uareu/jni/DpfjQuality$IntReference.class
+SHA1-Digest: v5+Pz4MNCUS1Rv310fgoshK6/vE=
+
+Name: com/digitalpersona/uareu/jni/Dpfj$1.class
+SHA1-Digest: +jwMNJb6o8LeJlLRzxm4rqwYM4M=
+
+Name: com/digitalpersona/uareu/jni/DpfjQuality$1.class
+SHA1-Digest: JFCf0OqhBmnjZN+mqkjngeZsWQ8=
+
+Name: com/digitalpersona/uareu/Engine$PreEnrollmentFmd.class
+SHA1-Digest: BiO0oviHvDD/7hJxBeRSsJniZhw=
+
+Name: com/digitalpersona/uareu/Fid$Fiv.class
+SHA1-Digest: vFkCOKogyTIC1yqsKKeGYlvC81k=
+
+Name: com/digitalpersona/uareu/jni/Dpfpdd.class
+SHA1-Digest: 9ENlVePIDcSgMNOS03mH7PlTz+Y=
+
+Name: com/digitalpersona/uareu/Reader$CaptureResult.class
+SHA1-Digest: lp9VmNSbly+PpAILUaG+0+Ycifk=
+
+Name: com/digitalpersona/uareu/dpfpdd/ReaderCollectionImpl.class
+SHA1-Digest: EupsnGyjV4HO/UbWXeeMRW+q5Og=
+
+Name: com/digitalpersona/uareu/Engine$EnrollmentCallback.class
+SHA1-Digest: Tnl6GqM0Xz9nYqy9fvU8JP0XCgs=
+
+Name: com/digitalpersona/uareu/UareUGlobal.class
+SHA1-Digest: vkeYbig3+Knag4P4Cb5ToRsT37k=
+
+Name: com/digitalpersona/uareu/dpfj/CompressionImpl.class
+SHA1-Digest: 97EteaxYrRpexZrnxxtcsDfwPpw=
+
+Name: com/digitalpersona/uareu/jni/Dpfj.class
+SHA1-Digest: NuSeWdsz7EBQ6JWX4dg6hbMbXZY=
+
+Name: com/digitalpersona/uareu/Reader$ImageProcessing.class
+SHA1-Digest: 6qZBxjQRNwcDMIHd3mfH3EEbyHM=
+
+Name: com/digitalpersona/uareu/Reader$ParamId.class
+SHA1-Digest: V/WrZS9pYHpujwyjiCbAWHF4Uu0=
+
+Name: com/digitalpersona/uareu/dpfj/FmdImpl.class
+SHA1-Digest: S7NuePguk8OtET6lwPKjEUxNuQQ=
+
+Name: com/digitalpersona/uareu/Reader$CaptureQuality.class
+SHA1-Digest: 78OyW7ei2zAIglnhKCKEa+ui4QI=
+
+Name: com/digitalpersona/uareu/Quality$QualityAlgorithm.class
+SHA1-Digest: ZLIzWR5YIVltBytP89eduUU/Nx4=
+
+Name: com/digitalpersona/uareu/UareUException.class
+SHA1-Digest: SD19/c/FwC9URd+RnpMxVtwBldc=
+
+Name: com/digitalpersona/uareu/jni/Dpfpdd$ByteArrayReference.class
+SHA1-Digest: BtpTH4XIoGd7Ijnz/4Z2ZXX0eh4=
+
+Name: com/digitalpersona/uareu/Reader$CaptureCallback.class
+SHA1-Digest: GZQQx7PpUJyJuerMTDyYo7nniV0=
+
+Name: com/digitalpersona/uareu/Compression$CompressionAlgorithm.class
+SHA1-Digest: ICVWg27JhyKTHmQ98ArUdFxATwY=
+
+Name: com/digitalpersona/uareu/dpfpdd/ReaderCollectionImpl$1.class
+SHA1-Digest: hzL4NmRzmdfWmFy+4NFtdp8yQhU=
+
+Name: com/digitalpersona/uareu/jni/DpfjQuality.class
+SHA1-Digest: PsPBWazj3uPvw7ZdDUmBAwDurGo=
+
+Name: com/digitalpersona/uareu/dpfj/EngineImpl.class
+SHA1-Digest: V9/ZBhNa6zuY9FDmq8yhxNDZMmw=
+
+Name: com/digitalpersona/uareu/jni/Dpfpdd$1.class
+SHA1-Digest: 5Rh1us+IAUun6Y6L9MJa1gCwLQg=
+
+Name: com/digitalpersona/uareu/jni/DpfjCompression$ByteArrayReference.
+ class
+SHA1-Digest: GSDoduOujmVXdfjEbNjj9ZKt808=
+
+Name: com/digitalpersona/uareu/Fid.class
+SHA1-Digest: 1qMNeZdmbWk2vo8XUANKweQn+ek=
+
+Name: com/digitalpersona/uareu/dpfj/EngineImpl$1.class
+SHA1-Digest: t8ds2CZBJTjMcap9NN6Ush0+cIY=
+
+Name: com/digitalpersona/uareu/Fid$Format.class
+SHA1-Digest: Bkk15IsEBbQhSWfBBZe0c+odHAA=
+
+Name: com/digitalpersona/uareu/Compression.class
+SHA1-Digest: UEfuYkfSsVcKDhFQdRiBuLPFs44=
+
+Name: com/digitalpersona/uareu/jni/DpfjCompression$1.class
+SHA1-Digest: kzL+soP1cCKC/vwyr4UDkGcbHHY=
+
+Name: com/digitalpersona/uareu/jni/DpfjCompression.class
+SHA1-Digest: mkAdzos3ur2Q60Xge5gUd34dARY=
+
+Name: com/digitalpersona/uareu/Reader$1.class
+SHA1-Digest: nElmp1e9VC2akytCbHU9eTiOPeo=
+
+Name: com/digitalpersona/uareu/jni/DpfjCompression$IntReference.class
+SHA1-Digest: i3DkHGbi7EOAH99Yh0dhuHFppH4=
+
+Name: com/digitalpersona/uareu/Fmd.class
+SHA1-Digest: 0Tve6T+cRKBqdyERJH970k17Tng=
+
+Name: com/digitalpersona/uareu/Reader$Technology.class
+SHA1-Digest: TMI+8nNXL2ieWBSLjvfgvXzxTDo=
+
+Name: com/digitalpersona/uareu/Reader$Status.class
+SHA1-Digest: viASpqntufaWpYeSy+MTNlXXhAA=
+
+Name: com/digitalpersona/uareu/Reader$Modality.class
+SHA1-Digest: 4b/VdaFVmJTaajTSJsf9W7NNums=
+
